@@ -47,6 +47,6 @@
 
 <h3> :earth_americas: &nbsp;Where to find me: </h3> 
 
-[![Linkedin: Giovani Bueno](https://img.shields.io/badge/-USERNAME-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/giovani-de-souza-bueno-43a56b72/)](https://www.linkedin.com/in/giovani-de-souza-bueno-43a56b72/)
-[![Gmail Badge](https://img.shields.io/badge/-seuemail@email.com-006bed?style=flat-square&logo=Gmail&logoColor=white&link=mailto:SEU-EMAIL)](mailto:SEU-EMAIL)
-[![GitHub SEU NOME]( https://img.shields.io/github/followers/VanessaSwerts?label=follow&style=social)](LINK-DO-SEU-GITHUB)
+[![Linkedin: Giovani Bueno](https://img.shields.io/badge/-GIOVANI-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/giovani-de-souza-bueno-43a56b72/)](https://www.linkedin.com/in/giovani-de-souza-bueno-43a56b72/)
+[![Gmail Badge](https://img.shields.io/badge/-giovani_bueno@live.com-006bed?style=flat-square&logo=Gmail&logoColor=white&link=mailto:giovani_bueno@live.com)](mailto:giovani_bueno@live.com)
+[![GitHub SEU NOME]( https://img.shields.io/github/followers/gbueno1291?label=follow&style=social)](https://github.com/gbueno1291)
